@@ -1,7 +1,7 @@
 
 
 
-![highlights](theme.jpg)
+![highlights](/images/theme.jpg)
 <br><br><br>
 
 -------------------------------
@@ -9,7 +9,7 @@
 -------------------------------
 -------------------------------
 # MY WORKSPACE <br>
-![highlights](1.jpg)
+![highlights](/images/1.jpg)
 
 # SIMPLE README
 1) install and select Vuewave theme in the themelist
