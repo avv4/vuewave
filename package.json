@@ -1,0 +1,22 @@
+{
+    "name": "Vuewave",
+    "displayName": "Vuewave Dark Theme",
+    "description": "A simple vue theme that does not strain your eyes.",
+    "version": "1.0.0",
+    "publisher": "avzcp4",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vuewave",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vuewave-color-theme.json"
+            }
+        ]
+    }
+}
