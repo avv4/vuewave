@@ -2,11 +2,11 @@
     "name": "vuewave",
     "displayName": "Vuewave Dark Theme",
     "description": "A simple vue theme that does not strain your eyes.",
-    "version": "1.0.0",
+    "version": "1.0.4",
     "icon": "logo.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/avzcp4/Vuewave"
+        "url": "https://github.com/avzcp4/vuewave.git"
     },
     "publisher": "avzcp4",
     "engines": {
@@ -15,6 +15,12 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "VSCode",
+        "Themes",
+        "Vue",
+        "dark"
+      ],
     "contributes": {
         "themes": [
             {
