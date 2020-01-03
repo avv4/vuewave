@@ -528,6 +528,164 @@
 				"fontStyle": "normal",
 				"foreground": "#64a0b8"
 			}
+		},
+		{
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#c097c0"
+			}
+		},
+		{
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#c097c0"
+			}
+		},
+		{
+			"scope": "support.type",
+			"settings": {
+				"foreground": "#c097c0"
+			}
+		},
+		{
+			"scope": "support.class",
+			"settings": {
+				"foreground": "#c097c0"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"foreground": "#adb4c4"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#4fb3db"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#99cfcb"
+			}
+		},
+		{
+			"name": "Tag start/end",
+			"scope": "punctuation.definition.tag",
+			"settings": {
+				"foreground": "#5c91a5"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#adb4c4"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string, meta.property-value.string, support.constant.property-value.string",
+			"settings": {
+				"foreground": "#b7db98"
+			}
+		},
+		{
+			"name": "CSS Class",
+			"scope": "entity.other.attribute-name.class.css",
+			"settings": {
+				"foreground": "#b7db98"
+			}
+		},
+		{
+			"name": "Operator",
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#87BCD1"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric, meta.property-value.numeric, support.constant.property-value.numeric, meta.property-value.color, support.constant.property-value.color",
+			"settings": {
+				"foreground": "#f77d58"
+			}
+		},
+		{
+			"name": "Other Keywords",
+			"scope": "keyword.other.use, keyword.other.function.use, keyword.other.namespace, keyword.other.new, keyword.other.special-method, keyword.other.unit, keyword.other.use-as",
+			"settings": {
+				"foreground": "#f77d58"
+			}
+		},
+		{
+			"name": "User-defined constant",
+			"scope": "constant.character, constant.other",
+			"settings": {
+				"foreground": "#4fb3db"
+			}
+		},
+		{
+			"name": "Property Name",
+			"scope": "entity.name, entity.other.attribute-name, entity.other.attribute-name.html, support.type.property-name, entity.name.tag.table",
+			"settings": {
+				"fontStyle": "normal",
+				"foreground": "#64a0b8"
+			}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#adb4c4"
+			}
+		},
+		{
+			"name": "Variable and parameter name",
+			"scope": [
+				"variable",
+				"meta.definition.variable.name",
+				"support.variable",
+				"entity.name.variable"
+			],
+			"settings": {
+				"foreground": "#adb4c4"
+			}
+		},
+		{
+			"name": "Object keys, TS grammar specific",
+			"scope": [
+				"meta.object-literal.key"
+			],
+			"settings": {
+				"foreground": "#adb4c4"
+			}
+		},
+		{
+			"scope": [
+				"meta.embedded",
+				"source.groovy.embedded"
+			],
+			"settings": {
+				"foreground": "#adb4c4"
+			}
 		}
 	]
 }
