@@ -686,6 +686,144 @@
 			"settings": {
 				"foreground": "#adb4c4"
 			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#8cb389"
+			}
+		},
+		{
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#a2b3c4"
+			}
+		},
+		{
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#a2b3c4"
+			}
+		},
+		{
+			"scope": "support.type",
+			"settings": {
+				"foreground": "#a2b3c4"
+			}
+		},
+		{
+			"scope": "support.class",
+			"settings": {
+				"foreground": "#a2b3c4"
+			}
+		},
+		{
+			"name": "meta.structure.dictionary.value.json string.quoted.double.json",
+			"scope": "meta.structure.dictionary.value.json string.quoted.double.json",
+			"settings": {
+				"foreground": "#8cb389"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string, meta.property-value.string, support.constant.property-value.string",
+			"settings": {
+				"foreground": "#8cb389"
+			}
+		},
+		{
+			"name": "CSS Class",
+			"scope": "entity.other.attribute-name.class.css",
+			"settings": {
+				"foreground": "#8cb389"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric, meta.property-value.numeric, support.constant.property-value.numeric, meta.property-value.color, support.constant.property-value.color",
+			"settings": {
+				"foreground": "#e79880"
+			}
+		},
+		{
+			"name": "Other Keywords",
+			"scope": "keyword.other.use, keyword.other.function.use, keyword.other.namespace, keyword.other.new, keyword.other.special-method, keyword.other.unit, keyword.other.use-as",
+			"settings": {
+				"foreground": "#e79880"
+			}
+		},
+		{
+			"name": "Library function",
+			"scope": "support.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#8798b6"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {
+				"foreground": "#8798b6"
+			}
+		},
+		{
+			"name": "Function name",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#8798b6"
+			}
+		},
+		{
+			"name": "Function argument",
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#a2b3c4"
+			}
+		},
+		{
+			"name": "Variable and parameter name",
+			"scope": [
+				"variable",
+				"meta.definition.variable.name",
+				"support.variable",
+				"entity.name.variable"
+			],
+			"settings": {
+				"foreground": "#a2b3c4"
+			}
+		},
+		{
+			"name": "Object keys, TS grammar specific",
+			"scope": [
+				"meta.object-literal.key"
+			],
+			"settings": {
+				"foreground": "#a2b3c4"
+			}
+		},
+		{
+			"scope": [
+				"meta.embedded",
+				"source.groovy.embedded"
+			],
+			"settings": {
+				"foreground": "#a2b3c4"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword, meta.property-value.keyword, support.constant.property-value.keyword",
+			"settings": {
+				"foreground": "#c097c0"
+			}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#87d1cb"
+			}
 		}
 	]
 }

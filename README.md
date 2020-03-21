@@ -1,7 +1,7 @@
 
 
 
-![screen](https://raw.githubusercontent.com/avzcp4/vuewave/master/images/theme.jpg)
+![screen](https://raw.githubusercontent.com/avzcp4/vuewave/master/images/2.jpg)
 <br><br><br>
 
 -------------------------------
