@@ -10,6 +10,8 @@
 -------------------------------
 # MY WORKSPACE <br>
 ![screen](https://raw.githubusercontent.com/avzcp4/vuewave/master/images/1.jpg)
+<br><br>
+![screen](https://raw.githubusercontent.com/avzcp4/vuewave/master/images/3.jpg)
 
 # SIMPLE README
 1) install and select Vuewave theme in the themelist
